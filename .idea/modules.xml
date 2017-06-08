@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Raster3D.iml" filepath="$PROJECT_DIR$/.idea/modules/Raster3D.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Raster3D_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Raster3D_main.iml" group="Raster3D" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Raster3D_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Raster3D_test.iml" group="Raster3D" />
+    </modules>
+  </component>
+</project>
